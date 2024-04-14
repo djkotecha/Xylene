@@ -630,9 +630,9 @@ object-position: 0%;
     padding: 12px !important;
     min-width: 150px !important;
   }
-  #hero{
+  /*#hero{
     display: none;
-  }
+  }*/
   .mt-mob-135{
     margin-top: 135px;
   }
